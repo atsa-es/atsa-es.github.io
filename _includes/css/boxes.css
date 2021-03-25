@@ -98,6 +98,18 @@
   flex-wrap: nowrap;              /* default value; can be omitted */
   justify-content: center; /* switched from default (flex-start, see below) */
 }
+#lecturesbox {
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  padding: 10px;
+  font-size: 14pt; 
+  margin-right: 1%;
+  margin-left: 1%;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  color: black;
+}
 
 .boxlinks{ /*can't figure out how to make Jekyll not override so use !important*/
   color: blue               !important;
