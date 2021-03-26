@@ -108,7 +108,7 @@
   justify-content: center; /* switched from default (flex-start, see below) */
   align-items: stretch;
 }
-#coursesbox {
+#lecturesbox {
   flex: auto;
   max-width: 300px;
   text-align: center;
