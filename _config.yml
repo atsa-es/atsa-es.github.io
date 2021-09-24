@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "Applied Time Series Analysis"
 keywords:    "MARSS, atsar"
 description: "Landing page for Applied Time Series Analysis (ATSA)"
-source_link: "https://atsa-r.github.io/"
+source_link: "https://atsa-es.github.io/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: 
