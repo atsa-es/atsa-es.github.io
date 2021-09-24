@@ -7,7 +7,7 @@ icon: img/logo2.png
 
 ## Our publications related to multivariate time-series analysis
 
-This is a selection of our papers using multivariate time-series modeling.  See our <a href="https://atsa-r.github.io/#contact">individual websites</a> for our publications on other topics.
+This is a selection of our papers using multivariate time-series modeling.  See our <a href="https://atsa-es.github.io/#contact">individual websites</a> for our publications on other topics.
 
 <style>
 ul {
