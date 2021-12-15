@@ -19,7 +19,7 @@ ul {
 
 * **Ward, E. J.**, M. Adkison, J. Couture, S. C. Dressel, M. A. Litzow, S. Moffitt, T. Hoem Neher, J. Trochta, and R. Brenner. 2017. Evaluating signals of oil spill impacts, climate, and species interactions in Pacific herring and Pacific salmon populations in Prince William Sound and Copper River, Alaska. *PLOS ONE*, 12(3): e0172898.
 
-* **Holmes, E. E.**, **M. D. Scheuerell**, and **E. J. Ward**. 2017. Applied Time Series Analysis for Fisheries and Environmental Sciences.  Online text for our course at University of Washington. [Online](https://nwfsc-timeseries.github.io/AFTSLabbook/)
+* **Holmes, E. E.**, **M. D. Scheuerell**, and **E. J. Ward**. 2017. Applied Time Series Analysis for Fisheries and Environmental Sciences.  Online text for our course at University of Washington. [Online](https://atsa-es.github.io/AFTSLabbook/)
 
 * Tolimieri, N., **E. E. Holmes**, G. D. Williams, R. Pacunski, and D. Lowry.  2017. Population assessment using multivariate time-series analysis: A case study of rockfishes in Puget Sound. Ecology and Evolution 7(8): 2045-7758. [PDF]( http://onlinelibrary.wiley.com/doi/10.1002/ece3.2901/epdf)
 
