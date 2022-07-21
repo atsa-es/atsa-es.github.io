@@ -2,7 +2,7 @@
 title: "Publications"
 bg: leafgreen
 color: black
-icon: img/logo2.png
+icon: img/fish-round.png
 ---
 
 ## Our publications related to multivariate time-series analysis
